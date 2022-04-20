@@ -1,0 +1,4 @@
+
+App simples para inserir e ler dados dos alunos e professores, em um banco de dados de uma escola, com autenticação de usuário.
+
+Desenvolvido por Chuck Steel (CS).

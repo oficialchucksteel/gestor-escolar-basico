@@ -1,0 +1,3 @@
+
+1º Deves executar db.sql para criar o banco de dados.
+2º Após isso abra a solução usando o Visual Studio, e divirta-te!
