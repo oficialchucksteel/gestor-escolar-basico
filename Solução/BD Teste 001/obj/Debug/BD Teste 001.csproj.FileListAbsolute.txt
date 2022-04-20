@@ -1,0 +1,14 @@
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\bin\Debug\BD Teste 001.exe.config
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\bin\Debug\BD Teste 001.exe
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\bin\Debug\BD Teste 001.pdb
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD Teste 001.csprojResolveAssemblyReference.cache
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.Properties.Resources.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD Teste 001.csproj.GenerateResource.Cache
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD Teste 001.exe
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD Teste 001.pdb
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaCadastramento.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaInicial.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaVerificar.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaVerificarProfs.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaCadastramentoProfs.resources
+C:\Users\Chuck Steel\Documents\Visual Studio 2012\Projects\CS\BD Teste 001\BD Teste 001\obj\Debug\BD_Teste_001.TelaLogin.resources
